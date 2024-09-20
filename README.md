@@ -1,4 +1,3 @@
-
 # Phishing Link Scanner
 This Python-based Phishing Link Scanner analyzes URLs to detect potential phishing attacks. It checks for common phishing keywords, suspicious URL patterns, and domain structures that are often used in phishing links.
 
